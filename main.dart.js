@@ -37376,7 +37376,7 @@ m=k.r
 m===$&&A.a()
 k.r="EID 890"+n+"\n"+m}catch(l){}try{n=k.r
 n===$&&A.a()
-o=n.split("\n")[0].split(" ")[1]
+o=n.split("\n")[1].split(" ")[1]
 k.r=k.r+("\nMEID "+J.axp(o,0,J.cw(o)-1))}catch(l){}},
 aq(){this.aN()
 $.Y.dx$.push(new A.agn(this))},
